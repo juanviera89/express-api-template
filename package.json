@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/juanviera89/express-api-template#readme",
   "dependencies": {
-    "config": "^3.1.0",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "rfr": "^1.2.3"
   }
